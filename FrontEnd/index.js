@@ -135,7 +135,6 @@ function setupAdminMode() {
 	editBtn.innerHTML = '<i class="fa-regular fa-pen-to-square"></i> Edit';
 	portfolioTitle.appendChild(editBtn);
 
-	*/
 	createModal();
 
 	editBtn.addEventListener('click', function() {
